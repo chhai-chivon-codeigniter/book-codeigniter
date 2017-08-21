@@ -1,16 +1,4 @@
-<?php
-defined('BASEPATH') OR exit('No direct script access allowed');
-?><!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<title>Book to CodeIgniter</title>
-</head>
-<body>
+<?php if(!defined('BASEPATH')) die("No direct Script Access allowed");
 
-<div class="container">
-	<dev><h2>Book Codeignter Web App</h2></dev>
-</div>
 
-</body>
-</html>
+echo "Home Page";
